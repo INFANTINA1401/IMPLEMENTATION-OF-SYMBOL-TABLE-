@@ -68,7 +68,8 @@ getch();
 
 # OUTPUT:
 
-![Screenshot 2024-09-18 160739](https://github.com/user-attachments/assets/57e0f3b5-7ecd-47ce-a041-d5334d5b55b1)
+![Screenshot 2024-10-23 152923](https://github.com/user-attachments/assets/78a15e59-5018-4fdd-aeba-29145faf3d58)
+
 
 
 # RESULT
